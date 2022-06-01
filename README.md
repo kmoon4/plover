@@ -23,10 +23,13 @@ A modern case for the 65% [Nibble](https://nullbits.co/nibble/) keyboard from [N
 
 ![Case Body with Standoffs (Render)](images/bare_case.jpg)
 
-## Possible Revisions
+## Possible Future Revisions
 - Integrate standoffs into case bottom (?)
 - Pattern for laser-cut silicone sheet to replace acrylic support
 - TRRS support
+
+## Updates
+- \[05-31-2022\] Prototype ordered for fit check and testing
 
 ## Other Stuff
 Huge thanks to [Jay Greco / Nullbits](https://nullbits.co/) for designing really cool boards!
