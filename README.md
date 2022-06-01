@@ -3,6 +3,9 @@ A modern case for the 65% [Nibble](https://nullbits.co/nibble/) keyboard from [N
 
 ![Front View (Render)](images/front_view.jpg)
 
+## Disclaimer
+**This is a work-in-progress and I would not suggest that you attempt to use the files to have a case made at this point.**
+
 ## Features
 - 2 cm front case height
 - 5° typing angle
