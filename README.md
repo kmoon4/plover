@@ -1,6 +1,8 @@
 # Plover
 A modern case for the 65% [Nibble](https://nullbits.co/nibble/) keyboard from [Nullbits](https://nullbits.co/)
 
+Just a concept for now, but a prototype is on the way so hopefully I'll have an update towards the end of June!
+
 ![Front View (Render)](images/front_view.jpg)
 
 ## Disclaimer
