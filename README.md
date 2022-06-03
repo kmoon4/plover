@@ -21,20 +21,19 @@ Just a concept for now, but a prototype is on the way so hopefully I'll have an 
 - No support for TRRS connectors at this time
 - Will require longer M2 screws for mounting
 - Uses existing standoff locations
-- I tried to design this with considerations for manufacturing via CNC or 3D Printing
 
 ![Case Body with Standoffs (Render)](images/bare_case.jpg)
+
+## Updates
+- \[05-31-2022\] Prototype ordered for fit check and testing
 
 ## Possible Future Revisions
 - Integrate standoffs into case bottom (?)
 - Pattern for laser-cut silicone sheet to replace acrylic support
 - TRRS support
 
-## Updates
-- \[05-31-2022\] Prototype ordered for fit check and testing
-
-## Other Stuff
-Huge thanks to [Jay Greco / Nullbits](https://nullbits.co/) for designing really cool boards!
+## Credits
+Huge thanks to [Jay Greco / Nullbits](https://nullbits.co/) for designing really cool boards, and for providing the files I used to dimension the case.
 
 ----
-The files for this project are licensed under the CC 4.0 BY-SA license.
+The files for the case itself are licensed under the CC 4.0 BY-SA license.
